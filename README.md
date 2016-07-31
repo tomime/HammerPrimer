@@ -64,6 +64,15 @@ System requirements:
 * OS X with homebrew or macports, or
 * Windows with virtual machine
 
+**References**
+ * [wikipedia: RFC](https://en.wikipedia.org/wiki/Request_for_Comments)
+ * [RFC 2026 - The Internet Standards Process -- Revision 3](https://tools.ietf.org/html/rfc2026)
+ * [RFC 2119 - Key words for use in RFCs to Indicate Requirement Levels](https://tools.ietf.org/html/rfc2119)
+ * [RFC 5234 - Augmented BNF for Syntax Specifications: ABNF](https://tools.ietf.org/html/rfc5234)
+ * [Zed Shaw - Ragel State Charts](https://zedshaw.com/archive/ragel-state-charts/)
+ * [Zed Shaw - A Painless Introduction To Finite State Machines](http://lamson.wiresharkcourse.com/docs/introduction_to_finite_state_machines.html)
+  * [alternative link](https://github.com/zedshaw/lamson/blob/master/doc/lamsonproject.org/output/docs/introduction_to_finite_state_machines.html)
+
 ## Lecture 2 - JSON/HTTP
 
 **URL**: [https://www.youtube.com/watch?v=eJnUSDgLiv8](https://www.youtube.com/watch?v=eJnUSDgLiv8&index=2&list=PLMAs0n8Mjs9o2I4KZ14gQr2osDsd3YPoT)
